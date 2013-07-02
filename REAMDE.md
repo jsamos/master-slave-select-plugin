@@ -3,6 +3,7 @@ Master Slave Select Plugin
 
 Example
 =====
+
 ```
 $('#projects').masterSlave(
     {
